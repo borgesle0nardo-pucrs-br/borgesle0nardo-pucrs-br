@@ -1,4 +1,4 @@
-## Olá, sou Leonardo Oliveira, estudante de Engenharia de Computação e Machine Learning Engineer 🌈
+## Olá, sou Leonardo Oliveira, estudante de Engenharia de Computação e Machine Learning Engineer 🏳️‍🌈
 
 ## Atualmente ocupo o cargo de Senior Machine Learning Engineer na Hewlett Packard Brasil Labs e estudande do 10º semestre de Engenharia de Computação na PUCRS
 
